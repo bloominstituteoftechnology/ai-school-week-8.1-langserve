@@ -1,7 +1,7 @@
 # Week 8.1: LangServe
 
 ## Introduction
-Seamlessly deploy and manage LangChain-based agents using LangServe, Docker, LangChain CLI, and Render for efficient cloud operations.
+Seamlessly deploy and manage LangChain-based agents using LangServe, Docker, LangChain CLI, and Render for efficient cloud operations. [Access a LangServe scaffold made using Docker here.](https://github.com/bloominstituteoftechnology/ai-deployment-example)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
